@@ -1,0 +1,10 @@
+{
+	"Type" : "Room",
+	"Id" : "arslin-room-b",
+	"Name" : "Arthur's second room",
+	"Description" : "A simple room meant to store Arthur's items.",
+	"Links" : {
+		"south" : "arslin-room-a"
+
+	}
+}

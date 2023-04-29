@@ -1,0 +1,10 @@
+{
+	"Type" : "Room",
+	"Id" : "arslin-room-a",
+	"Name" : "Arthur's Room",
+	"Description" : "A nice simple room with a gaming computer and a bed.",
+	"Links" : {
+		"south" : "mrober10-room-b"
+
+	}
+}
