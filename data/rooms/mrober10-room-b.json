@@ -4,7 +4,7 @@
 	"Name" : "Sheldon's cave",
 	"Description" : "A small cave, that looks like it might be frequented by an octopus",
 	"Links" : {
-		"south" : "mrober10-room-a"
-
+		"south" : "mrober10-room-a",
+		"north" : "arslin-room-a"
 	}
 }
